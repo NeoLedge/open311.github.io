@@ -15,6 +15,7 @@ Support in Products & Services
 Mobile apps and web front-ends that connect to the API. You can also see a search for 'Open311' on [Google Play (Android Marketplace)](https://play.google.com/store/search?q=open311) or the [Apple App Store](http://ax.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=open311)
 
 -   [ConnectedBits](http://connectedbits.com)
+-   <a href="https://www.neoledge.com/elise-city-citizen-relationship-management/">Elise City</a>
 -   [Fix 311 iPhone](https://itunes.apple.com/us/app/fix-311/id534963385?mt=8) [Fix 311 Android](https://play.google.com/store/apps/details?id=com.fix311) [Website](https://fix311.com)
 -   [GeoReporter (open source)](http://marketplace.civiccommons.org/apps/georeporter) iPhone app
 -   [Mark-a-Spot](/Mark-a-Spot "wikilink")
